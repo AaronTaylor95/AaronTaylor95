@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronTaylor95&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronTaylor95&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronTaylor95&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 https://catalins.tech/how-to-create-a-kickass-github-profile-page
