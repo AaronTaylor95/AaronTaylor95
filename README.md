@@ -4,7 +4,9 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="Go Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="50" height="50"/>
+
 
 ---
 
